@@ -1,0 +1,61 @@
+
+#Ellen {
+  font-size: 55px;
+  color: #776363;
+  font-family: 'Cormorant Garamond';
+  position: absolute;
+  bottom: 2px;
+  right: 25px;
+}
+
+.btn{
+  background-color: #eae5d6;
+  color: #776363;
+  border: 2px solid #eae5d6;
+  font-family: 'Cormorant Garamond';
+  font-size: 25px;
+}
+
+#img_div{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container{
+ /* position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;*/
+}
+
+body {
+  background-color: #eae5d6;
+}
+
+.headers{
+  font-size: 55px;
+  color: #776363;
+  font-family: 'Cormorant Garamond';
+}
+
+
+.sub_headers{
+  font-size: 35px;
+  color: #776363;
+  font-family: 'Cormorant Garamond';
+}
+
+.paragraphs{
+    font-size: 20px;
+    color: #776363;
+    font-family: 'Cormorant Garamond';
+}
+
+.art-scroll{
+    width: 400px;
+    height: 275px;
+    overflow-y:auto
+}
