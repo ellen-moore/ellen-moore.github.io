@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21bb50f9-c419-41ee-a3e4-48248cd68d25" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/EllensWebsite.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/about_me.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/about_me_pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/art_work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mila.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/projects.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/way_luck.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3733.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3734.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3736.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3737.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3738.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3739.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3741.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3742.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3744.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/web_img/IMG_3746.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2EuaYhSnPlC1Hezbe8CMbkuzabB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21bb50f9-c419-41ee-a3e4-48248cd68d25" name="Changes" comment="" />
+      <created>1663447972766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663447972766</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
